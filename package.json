@@ -1,6 +1,11 @@
 {
   "name": "fcc-learn-npm-package-json",
   "description": "Aprendiendo las buenas practicas de npm",
+  "keywords": [
+    "freecodecamp",
+    "npm",
+    "node.js"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
