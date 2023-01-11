@@ -1,6 +1,5 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "Gusberly Morillo",
   "description": "Aprendiendo las buenas practicas de npm",
   "dependencies": {
     "express": "^4.14.0"
